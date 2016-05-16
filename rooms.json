@@ -1,0 +1,1541 @@
+{"rooms":[
+	{
+		"roomId":"BL135",
+		"name":"MediaScape Room (BL-135)",
+		"image":"BL135.JPG",
+		"HTMLdescrip":"<p>This group study room is equipped to connect and display multiple laptops and seats up to 6.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"BL134",
+		"name":"Group Viewing Room (BL-134)",
+		"image":"BL134.JPG",
+		"HTMLdescrip":"<p>This group study room is equipped with a big screen to display DVDs or a laptop screen and seats up to 6.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"glassroom",
+		"name":"Glass Box Study Room",
+		"image":"glassroom.jpg",
+		"HTMLdescrip":"<p>This group study room is equipped with a big screen to display DVDs or a laptop screen and seats up to 6.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"graph",
+		"name":"Graphic Novel Collection",
+		"image":"dvd_graph.JPG",
+		"HTMLdescrip":"<p>The Andrew L. Bouwhuis Library offers hundreds of <a href='http://library.canisius.edu/graphic_novels'>graphic novels</a> available for checkout. We have graphic novels suitable for every age group and reader preference.</p>",
+		"reservable":false,
+		"systemLoc":"Graphic Novels",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"dvd",
+		"name":"DVD Collection",
+		"image":"dvd_graph.JPG",
+		"HTMLdescrip":"<p>The ALBL has thousands of <a href='http://library.canisius.edu/dvd_video'>DVDs, Blu-Rays and Videos</a> available for checkout.</p>",
+		"reservable":false,
+		"systemLoc":"AV Video",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"BL125",
+		"name":"Group Study Room (BL-125)",
+		"image":"BL125.JPG",
+		"HTMLdescrip":"<p>This group study room has a white board for collaborating on projects. Check out markers at the circulation desk.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"newbooks",
+		"name":"New Books",
+		"image":"newbooks.JPG",
+		"HTMLdescrip":"<p>Check out the newest acquisitions at the library.</p><p><a href='http://cando.canisius.edu/'>Search the catalog</a></p>",
+		"reservable":false,
+		"systemLoc":"New Books",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"gallery",
+		"name":"The Peter and Mary Lou Vogt Art Gallery",
+		"image":"gallery.JPG",
+		"HTMLdescrip":"<p>Rotating exhibits including works by students and faculty.</p><p><a href='http://www.canisius.edu/artscanisius/studio-art-series/'>Go here</a> for a list of recent and upcoming exhibits.</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"leisure",
+		"name":"Leisure Reading Collection",
+		"image":"leisure.JPG",
+		"HTMLdescrip":"<p>Plenty of popular fiction and nonfiction paperbacks available for checkout.</p><p><a href='http://cando.canisius.edu/'>Search the catalog</a></p>",
+		"reservable":false,
+		"systemLoc":"Leisure Reading",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"curriccenter",
+		"name":"Curriculum Materials Center",
+		"image":"curriccenter.JPG",
+		"HTMLdescrip":"<p>Books, big books, toys, games, unit plans, movies, textbooks, lesson plans, activity books, kits and educational software packages that you can borrow and use to enrich and add interest to lesson plans and classes you will teach as a student teacher.</p><p><a href='http://libguides.canisius.edu/CMC?hs=a'>Click here</a> for more information about what is available and how to use the Curriculum Center.</p>",
+		"reservable":false,
+		"systemLoc":"Curric Center",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"bests",
+		"name":"Best Sellers",
+		"image":"bests.JPG",
+		"HTMLdescrip":"<p>Best selling books and movies available for checkout.</p><p><a href='http://cando.canisius.edu/'>Search the catalog</a></p>",
+		"reservable":false,
+		"systemLoc":"Best Seller",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"itshelpdesk",
+		"name":"ITS Help Desk",
+		"image":"itshelpdesk.JPG",
+		"HTMLdescrip":"<p>The ITS Help Desk has experienced, qualified staff and extensive facilities with which to diagnose and correct many computer problems.  Walk-in, call-in, and email-in service is available for Canisius College students, faculty, and staff.   Most problems can be handled directly by the Help Desk. Those requiring further assistance will be assigned to ITS staff for follow-up.</p><p><a href='http://www.canisius.edu/its/'>Click here</a> for more information.</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"classroom",
+		"name":"Library Instruction Room",
+		"image":"classroom.JPG",
+		"HTMLdescrip":"<p>Get general help with citations and research or meet your class here for course-specific instruction from librarians.</p><p>Faculty can <a href='http://library.canisius.edu/requestaclass'>request a library instruction class here.</a></p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"learningcenter",
+		"name":"Library Learning Center",
+		"image":"learningcenter.jpg",
+		"HTMLdescrip":"<p>Get general help with citations and research or meet your class here for course-specific instruction from librarians.</p><p>Faculty can <a href='http://library.canisius.edu/requestaclass'>request a library instruction class here.</a></p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"popmags",
+		"name":"Popular Magazines and DVD Bestsellers",
+		"image":"popmags.JPG",
+		"HTMLdescrip":"<p>Take a study break with a magazine and a comfortable chair, or checkout a bestselling DVD.</p><p><a href='http://cando.canisius.edu/'>Search the catalog</a></p>",
+		"reservable":false,
+		"systemLoc":"Popular Magazines",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"circdesk",
+		"name":"Reference and Circulation Desk",
+		"image":"circdesk.JPG",
+		"HTMLdescrip":"<p>Get help with research, citations and anything else. Check out library materials, and get books and DVDs on reserve.</p><p><a href='http://library.canisius.edu/contact'>Contact Us!</a></p><p>Phone: (716) 888-8412</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"refdesk",
+		"name":"Reference Desk",
+		"image":"refdesk.JPG",
+		"HTMLdescrip":"<p>Get help with research, citations and anything else!</p><p><a href='http://library.canisius.edu/contact_us'>Contact Us!</a></p><p>Phone: (716) 888-8411</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"BL126",
+		"name":"Group Study Room (BL-126)",
+		"image":"BL126.JPG",
+		"HTMLdescrip":"<p>This group study room has a white board for collaborating on projects. Check out markers at the circulation desk.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"BL127",
+		"name":"Group Study Room (BL-127)",
+		"image":"BL127.JPG",
+		"HTMLdescrip":"<p>This group study room has a white board for collaborating on projects. Check out markers at the circulation desk.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"BL021",
+		"name":"Prayer Room (BL-021)",
+		"image":"prayer.JPG",
+		"HTMLdescrip":"<p>Prayer room.</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"BL020",
+		"name":"Group Study Room (BL-020)",
+		"image":"BL020.JPG",
+		"HTMLdescrip":"<p>This group study room has a white board for collaborating on projects. Check out markers at the circulation desk.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"BL016",
+		"name":"Skype Room (BL-016)",
+		"image":"BL016.JPG",
+		"HTMLdescrip":"<p>This study room has a computer with software for Skype.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"lit_lounge",
+		"name":"Literary Magazine Lounge",
+		"image":"lit_lounge.JPG",
+		"HTMLdescrip":"<p>This lounge area holds the literary magazine collection.</p><p><a href='http://cando.canisius.edu/'>Search the catalog</a></p>",
+		"reservable":false,
+		"systemLoc":"Literary Magazine",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"conf_room",
+		"name":"Library Conference Room",
+		"image":"conf_room.JPG",
+		"HTMLdescrip":"<p>The library conference room can be booked through the <a href='http://www.canisius.edu/event/'>Office of Event Management</a>.</p><p>This room is available as a study space when it is not reserved.</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"media_room",
+		"name":"Media Room",
+		"image":"media_room.JPG",
+		"HTMLdescrip":"<p>This room has computers, DVD/VHS players, CD and cassette players, and a record player.</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"BL206",
+		"name":"Group Study Room (BL-206)",
+		"image":"BL206.JPG",
+		"HTMLdescrip":"<p>This small group study room is perfect for collaborating on projects with a partner or a small group.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BL212",
+		"name":"Group Study Room (BL-212)",
+		"image":"BL212.JPG",
+		"HTMLdescrip":"<p>This group study room has a white board for collaborating on projects. Check out markers at the circulation desk.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BL213",
+		"name":"Group Study Room (BL-213)",
+		"image":"BL213.JPG",
+		"HTMLdescrip":"<p>This group study room has a white board for collaborating on projects. Check out markers at the circulation desk.</p>",
+		"reservable":false,
+		"systemLoc":"",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"circle",
+		"name":"Group Study Room (Circle - BL-202)",
+		"image":"circle.JPG",
+		"HTMLdescrip":"<p>This group study room is great for collaborating on projects with a partner or a small group.</p><p><a href='https://library.canisius.edu/or/'>Click here to reserve this room.</a></p>",
+		"reservable":true,
+		"systemLoc":"",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"atlas",
+		"name":"Atlas Collection",
+		"image":"atlas.JPG",
+		"HTMLdescrip":"<p>Check out our collection of Atlases.</p>",
+		"reservable":false,
+		"systemLoc":"ATLAS",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"archives",
+		"name":"Rev. J. Clayton Murray, S.J. Archives",
+		"image":"archives.JPG",
+		"HTMLdescrip":"<p>The Rev. J. Clayton Murray, S.J. Archives serves as the institutional memory of the college. We indentify, acquire and maintain historic records that chronicle the development of the College. Archives ensures an accurate, well- maintained record of decisions which have shaped Canisius College.</p>",
+		"reservable":false,
+		"systemLoc":"Archives",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"sp_coll",
+		"name":"Special Collections",
+		"image":"sp_coll.JPG",
+		"HTMLdescrip":"<p>The Canisius College Archives Balling Special Collections Room contains unique and rare items. These include books, manuscripts and collections related to the history of Canisius, Jesuits and western New York.</p>",
+		"reservable":false,
+		"systemLoc":"Spec Coll",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"AC1",
+		"name":"AC1 - B821",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"B821",
+		"name":"B821 - BC108",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BC108",
+		"name":"BC108 - BF637",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BF637",
+		"name":"BF637 - BL65",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BL65",
+		"name":"BL65 - BQ5205",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BQ5205",
+		"name":"BQ5205 - BR1360",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BR1360",
+		"name":"BR1360 - BS2650",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BS2650",
+		"name":"BS2650 - BV3427",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BV3427",
+		"name":"BV3427 - BX1753",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BX1753",
+		"name":"BX1753 - BX5037",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"BX5037",
+		"name":"BX5037 - D20",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"D20",
+		"name":"D20 - D810",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"D810",
+		"name":"D810 - DA959",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"DA959",
+		"name":"DA959 - DG77",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"DG77",
+		"name":"DG77 - DS109",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"DS109",
+		"name":"DS109 - DT29",
+		"image":"upper_shelves_right.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL35",
+		"name":"DT30 - E99",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL36",
+		"name":"E99 - E176",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL37",
+		"name":"E176 - E183.7",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL38",
+		"name":"E183.7 - E184",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL39",
+		"name":"E184 - E187",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL40",
+		"name":"E187 - E337.8",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL41",
+		"name":"E337.8 - E468",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL42",
+		"name":"E468 - E717",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL43",
+		"name":"E721 - E835",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL44",
+		"name":"E836 - F127",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL45",
+		"name":"F127 - F574",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL46",
+		"name":"F574 - F1234",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL47",
+		"name":"F1234 - F3100",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL48",
+		"name":"F3100 - GN62.8",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL49",
+		"name":"GN62.8 - GV351",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL50",
+		"name":"GV351 - H41",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL51",
+		"name":"H41 - HB72",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL52",
+		"name":"HB72 - HB203",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL53",
+		"name":"HB206 - HC60",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL54",
+		"name":"HC60 - HC106.8",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL55",
+		"name":"HC106.8 - HC411",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL56",
+		"name":"HC411 - HD58.57",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL57",
+		"name":"HD58.9 - HD2721",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL58",
+		"name":"HD2721 - HD5503",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL59",
+		"name":"HD5503 - HD7325",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL60",
+		"name":"HD7332 - HD9715",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL77",
+		"name":"HD9715 - HF1753",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL78",
+		"name":"HF1755 - HF5601",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL79",
+		"name":"HF5601 - HG3753",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL80",
+		"name":"HG3753 - HJ3251",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL81",
+		"name":"HJ3251 - HN31",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL82",
+		"name":"HN32 - HQ766.1",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL83",
+		"name":"HQ766.1 - HT123",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL84",
+		"name":"HT123 - HV6432",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL85",
+		"name":"HV6432 - HX40",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL86",
+		"name":"HX40 - JC251",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL87",
+		"name":"JC251 - JK361",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL88",
+		"name":"JK361 - JN3581",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL89",
+		"name":"JN3582 - JX1391",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL90",
+		"name":"JX1391 - K.N42",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL91",
+		"name":"K.N42 - KF101",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL92",
+		"name":"KF101 - KF6289",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL93",
+		"name":"KF6289 - LA210",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL94",
+		"name":"LA210 - LB1090",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL95",
+		"name":"LB1091 - LB2341",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL96",
+		"name":"LB2341 - LC2802",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL97",
+		"name":"LC2803 - ML312",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL98",
+		"name":"ML313 - MT999",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL99",
+		"name":"N1 - N6999",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL100",
+		"name":"N699 - NA5599",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL101",
+		"name":"NA5600 - ND623",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"UL102",
+		"name":"ND623 - NX999",
+		"image":"upper_shelves_left.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"upper_level"
+	},
+	{
+		"roomId":"LL1",
+		"name":"P1 - PA3462",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL2",
+		"name":"PA3463 - PA6823",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL3",
+		"name":"PA6824 - PE1421",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL4",
+		"name":"PE1421 - PG3476",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL5",
+		"name":"PG3476 - PN56",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL6",
+		"name":"PN56 - PN1113",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL7",
+		"name":"PN1114 - PN1998",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL8",
+		"name":"PN1998 - PN4700",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL9",
+		"name":"PN4700 - PN9999",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL10",
+		"name":"PQ1 - PQ2603",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL11",
+		"name":"PQ2603 - PQ6001",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL12",
+		"name":"PQ6001 - PQ9999",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL16",
+		"name":"PR1 - PR409",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL17",
+		"name":"PR409 - PR675",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL18",
+		"name":"PR678 - PR1223",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL19",
+		"name":"PR1224 - PR2358",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL20",
+		"name":"PR2358 - PR2894",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL21",
+		"name":"PR2894 - PR3456",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL22",
+		"name":"PR3456 - PR4020",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL23",
+		"name":"PR4020 - PR4483",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL24",
+		"name":"PR4483 - PR4803",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL25",
+		"name":"PR4803 - PR5263",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL26",
+		"name":"PR5263 - PR5823",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL27",
+		"name":"PR5823 - PR6005",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL28",
+		"name":"PR6005 - PR6023",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL29",
+		"name":"PR6023 - PR6039",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL30",
+		"name":"PR6039 - PR6065",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL31",
+		"name":"PR6065 - PS1.D48",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL34",
+		"name":"PS1 - PS261",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL35",
+		"name":"PS261 - PS501",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL36",
+		"name":"PS501 - PS1134",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL37",
+		"name":"PS1134 - PS1888",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL38",
+		"name":"PS1888 - PS2696",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL39",
+		"name":"PS2696 - PS3505",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL40",
+		"name":"PS3505 - PS3511",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This section of compact shelving holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL41",
+		"name":"PS3511 - PS3525",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL42",
+		"name":"PS3525 - PS3537",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL43",
+		"name":"PS3537 - PS3552",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL44",
+		"name":"PS3552 - PS3557",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL45",
+		"name":"PS3557 - PS3563",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL46",
+		"name":"PS3563 - PS3569",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL47",
+		"name":"PS3569 - PS3626",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL48",
+		"name":"PT1 - PT91",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL49",
+		"name":"PT91 - PT2611",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL50",
+		"name":"PT2611 - PT9878",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL51",
+		"name":"PZ1 - PZ4",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL52",
+		"name":"PZ4 - Q1",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL53",
+		"name":"Q1 - Q213",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL54",
+		"name":"Q213 - QA76.9",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL55",
+		"name":"QA76.9 - QA371",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL56",
+		"name":"QA371 - QC1",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL57",
+		"name":"QC1 - QC507",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL58",
+		"name":"QC507 - QD241",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL59",
+		"name":"QD241 - QE500",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL60",
+		"name":"QE500 - QH390",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This area holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL61",
+		"name":"QH390 - QK617",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This area holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL62",
+		"name":"QK617 - QL681",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This area holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL79",
+		"name":"QL681 - QL762.5",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This area holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL81",
+		"name":"Q762.5 - QP379",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>This area holds part of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL82",
+		"name":"QP380 - QR181",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL83",
+		"name":"QR181 - RA395",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL84",
+		"name":"RA395 - RC488.5",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL85",
+		"name":"RC488.5 - RJ506",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL86",
+		"name":"RJ506 - TD195",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL87",
+		"name":"TD195 - TX531",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL88",
+		"name":"TX531 - Z671",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL89",
+		"name":"Z671 - Z2014",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"LL90",
+		"name":"Z2014 - ZA9999",
+		"image":"compact.JPG",
+		"HTMLdescrip":"<p>The compact shelving holds bound periodicals and parts of the general collection.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"ref",
+		"name":"Reference Collection",
+		"image":"ref.JPG",
+		"HTMLdescrip":"<p>Dictionaries, encyclopedias and many other reference sources.</p><p><a href='http://cando.canisius.edu/'>Search the catalog</a></p>",
+		"reservable":false,
+		"systemLoc":"REF",
+		"floor":"main_level"
+	},
+	{
+		"roomId":"news_curper",
+		"name":"Current Periodicals & Newspapers",
+		"image":"news_curper.JPG",
+		"HTMLdescrip":"<p>Check out the newest issues of our print journals and newspapers.</p><p>For past print issues, <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Current Periodicals",
+		"floor":"lower_level"
+	},
+	{
+		"roomId":"bound_periodicals",
+		"name":"Bound Periodicals",
+		"image":"lower_shelves.JPG",
+		"HTMLdescrip":"<p>This section of shelving holds bound periodicals in alphabetical order by title.</p><p>Click here to <a href='http://cando.canisius.edu/'>search the catalog</a>.</p>",
+		"reservable":false,
+		"systemLoc":"Book Shelves",
+		"floor":"lower_level"
+	}
+]}
